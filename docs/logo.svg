@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs><mask id="m" maskUnits="userSpaceOnUse" x="0" y="0" width="1024" height="1024"><rect width="1024" height="1024" fill="#fff"/><g fill="#000" transform="translate(0 0) scale(1)"><rect x="410" y="342" width="340" height="22"/><rect x="410" y="444" width="340" height="22"/></g></mask></defs>
+  <rect width="1024" height="1024" fill="#163300"/>
+  <g fill="#9FE870" mask="url(#m)"><g transform="translate(0 0) scale(1)">
+  <rect x="288" y="262" width="116" height="500" rx="10"/>
+  <path d="M426 262 h162 a142 142 0 0 1 0 284 h-162 z"/>
+  <path d="M552 568 h120 l64 194 h-120 z"/></g></g>
+</svg>
