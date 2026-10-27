@@ -47,6 +47,17 @@ same format and vote. Renovia never handles money between the parties.
 
 <sub>All people, firms and numbers in the screenshots are fictional.</sub>
 
+## Demo videos
+
+Recordings of the real app running against a local server with a separate demo database (Turkish interface).
+Each flow is driven by an integration test, not edited together by hand.
+
+| Video | Length |
+|---|---|
+| [Homeowner](https://github.com/wishyasin/renovia-showcase/releases/download/demo-2026-10/renovia-homeowner.mp4): listing a building, deed verification, comparing offers and firms, inviting neighbours, meetings, voting and accepting an offer | 5:34 |
+| [Contractor](https://github.com/wishyasin/renovia-showcase/releases/download/demo-2026-10/renovia-contractor.mp4): browsing listings, licence verification, reference projects, sending an offer, chat and the accepted project | 4:11 |
+| [Admin](https://github.com/wishyasin/renovia-showcase/releases/download/demo-2026-10/renovia-admin.mp4): two-step login, deed and firm verification, reported listings, support requests, photo moderation | 1:47 |
+
 ## Features
 
 **Homeowners**
